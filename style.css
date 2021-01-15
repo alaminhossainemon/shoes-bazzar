@@ -1,0 +1,72 @@
+.half-side{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    
+
+}
+.half-side img{
+    width: 100%;
+}
+.info{
+    height: 600px;
+}
+
+
+
+.service-box{
+    width: 100%;
+    height: 120px;
+    border: 1px solid black;
+    margin-bottom: 20px;
+    border-radius: 20px;
+    padding:20px 40px ;
+}
+.service-box img{
+    width: 50px;
+    position: absolute;
+    bottom: 20px;
+}
+.box-text{
+    width: 70%;
+    float: right;
+    position: absolute;
+    right: 30px;
+}
+
+
+
+
+.discount-area{
+    height: 300px;
+    background-color: rgb(1, 6, 17);
+    color: white;
+    
+
+
+}
+.shoes-card{
+    border: none;
+    height: 100%;
+} 
+
+
+.card-footer {
+    background-color: white;
+    border: 0px;
+    
+}
+
+button.btn.btn-primary {
+    float: left;
+    display: flex;
+    
+}
+.submit{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
